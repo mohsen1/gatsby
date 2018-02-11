@@ -15,7 +15,7 @@ module.exports.modifyWebpackConfig = (
 ) => {
   // CommonJS to keep Webpack happy.
   const copts = Object.assign({}, compilerDefaults, compilerOptions, {
-    module: `commonjs`,
+    // module: `commonjs`,
   })
 
   // React-land is rather undertyped; nontrivial TS projects will most likely
