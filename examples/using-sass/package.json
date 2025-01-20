@@ -15,7 +15,7 @@
     "gatsby-plugin-google-analytics": "latest",
     "gatsby-plugin-offline": "latest",
     "gatsby-plugin-sass": "latest",
-    "react-typography": "^0.15.10",
+    "react-typography": "^0.16.23",
     "tachyons-sass": "^4.7.1",
     "typography": "^0.15.10"
   }
