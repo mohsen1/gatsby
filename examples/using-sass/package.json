@@ -17,6 +17,6 @@
     "gatsby-plugin-sass": "latest",
     "react-typography": "^0.15.10",
     "tachyons-sass": "^4.7.1",
-    "typography": "^0.15.10"
+    "typography": "^0.16.24"
   }
 }
