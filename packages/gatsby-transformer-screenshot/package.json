@@ -4,7 +4,7 @@
   "description": "Gatsby transformer plugin that uses AWS Lambda to take screenshots of websites",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.17.1"
+    "axios": "^1.8.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
